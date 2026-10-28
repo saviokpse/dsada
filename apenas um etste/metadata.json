@@ -1,0 +1,6 @@
+{
+  "name": "Magalu - Ar-Condicionado Split Gree Inverter 9.000 BTUs",
+  "description": "Página completa do Ar-Condicionado Split 9.000 BTUs Gree Inverter Frio GWC09ATA-D6DNA1AB com cálculo de CEP em tempo real, ficha técnica e checkout completo com Pix, Cartão e Boleto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
